@@ -1,0 +1,77 @@
+
+		body {
+			font-family: "Avenir Next", avenir, helvetica, sans-serif;
+			max-width: 600px;
+			margin: 0 auto;
+			padding: 0px 20px 40px 20px;
+			font-size: 1.1em;
+			line-height: 1.6em;
+			color: #444;
+			background: url('https://static.fahrni.me/rrf/rrfv5-bkgnd-orange-gradient.png') center top repeat-x;
+		}
+		
+		h1 {
+			font-family: avenir, helvetica, sans-serif;
+			padding: 200px 0px 20px 0px;
+			margin: 0px;
+			text-align: center;
+			font-weight: 200;
+			font-size: 3.2em;
+			line-height: 1.1em;
+			background: url('/images/feather.png') center top no-repeat;
+			background-size: 300px auto;
+			color: #cc5500;
+		}
+		
+		h2 {
+			font-family: avenir, helvetica, sans-serif;
+			font-weight: 200;
+			font-size: 1.8em;
+			margin-top: 3px;
+			line-height: 1.1em;
+		}
+		
+		h3 {
+			font-family: avenir, helvetica, sans-serif;
+			font-weight: 200;
+			font-size: 1.8em;
+			margin-top: 50px;
+			line-height: 1.1em;
+		}
+		
+		strong {
+			font-weight: 600;
+		}
+		
+		a {
+			color: #cc5500;
+		}
+		
+		p.footnote {
+			margin-top: 40px;
+			color: #aaa;
+			font-size: 0.9em;
+		}
+		
+		div.footer {
+			margin: 40px auto;
+			
+			display: flex;
+    		flex-wrap: wrap;
+			flex-direction: row;
+			justify-content: center;
+			align-items: center;
+		}
+		
+		div.footer img {
+			margin: 20px;
+		}
+		
+		blockquote {
+			margin: 0;
+			padding: 10px 20px;
+			background-color: #f7f7f7;
+			border-radius: 4px;
+		}
+		
+	
